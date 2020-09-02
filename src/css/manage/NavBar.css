@@ -1,0 +1,9 @@
+.top-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 240px;
+  right: 0;
+  height: 60px;
+  background: #fff;
+  box-shadow: 0 0 16px 0 rgba(0,0,0,.1);
+}
